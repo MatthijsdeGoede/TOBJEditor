@@ -1,0 +1,15 @@
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\bin\Debug\net5.0\TOBJEditor.exe
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\bin\Debug\net5.0\TOBJEditor.deps.json
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\bin\Debug\net5.0\TOBJEditor.runtimeconfig.json
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\bin\Debug\net5.0\TOBJEditor.runtimeconfig.dev.json
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\bin\Debug\net5.0\TOBJEditor.dll
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\bin\Debug\net5.0\TOBJEditor.pdb
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\obj\Debug\net5.0\TOBJEditor.csproj.AssemblyReference.cache
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\obj\Debug\net5.0\TOBJEditor.AssemblyInfoInputs.cache
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\obj\Debug\net5.0\TOBJEditor.AssemblyInfo.cs
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\obj\Debug\net5.0\TOBJEditor.csproj.CoreCompileInputs.cache
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\obj\Debug\net5.0\TOBJEditor.dll
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\obj\Debug\net5.0\TOBJEditor.pdb
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\obj\Debug\net5.0\TOBJEditor.genruntimeconfig.cache
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\obj\Debug\net5.0\TOBJEditor.Main.resources
+C:\Users\Matth\source\repos\TOBJEditor\TOBJEditor\obj\Debug\net5.0\TOBJEditor.csproj.GenerateResource.cache
