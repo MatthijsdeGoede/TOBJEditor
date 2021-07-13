@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOBJEditor", "TOBJEditor\TOBJEditor.csproj", "{4820D42A-EB49-4B8F-8C04-E0AADFF0BE4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4820D42A-EB49-4B8F-8C04-E0AADFF0BE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4820D42A-EB49-4B8F-8C04-E0AADFF0BE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4820D42A-EB49-4B8F-8C04-E0AADFF0BE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4820D42A-EB49-4B8F-8C04-E0AADFF0BE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17231BE6-ACCE-4E1F-979B-9287E9F37C41}
+	EndGlobalSection
+EndGlobal
