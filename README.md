@@ -46,6 +46,10 @@ Lastly, there are a few export options, related to the resulting TOBJ type:
 * Trailer skin; used for (non squared resolution) trailer skins.
 * UI Icon; used for textures displayed in the user interface of the game.  
 
+
+![image](https://user-images.githubusercontent.com/55321868/125977845-8b912731-7018-49c0-a1a8-931bcc254072.png)
+
+
 I hope that this tool will save you a lot of time so that you can focus more on content creation rather than dealing with files!
 
 ### Installation/Compatibility
